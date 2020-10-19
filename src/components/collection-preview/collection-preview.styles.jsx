@@ -12,7 +12,7 @@ export const TitleContainer = styled.h1`
   cursor: pointer;
 
   &:hover {
-    color: grey;
+    color: black;
   }
 `;
 
